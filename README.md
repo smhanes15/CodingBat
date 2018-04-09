@@ -11,7 +11,7 @@ Download individual submitted code for questions from the CodingBat website.
 
 ## Notes for Current Version
 1. the current version is functional, but crude
-2. only fetches Java questions
+2. only fetches Java questions, Python coming
 3. makes no distinction between questions you've completed and questions you haven't
 4. will show errors if a question has comments in the code
 5. does not produce code you can run as-is, that is, without creating your own test files
