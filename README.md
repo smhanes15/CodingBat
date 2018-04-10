@@ -16,6 +16,9 @@ Download individual submitted code for questions from the CodingBat website.
 4. will show errors if a question has comments in the code
 5. does not produce code you can run as-is, that is, without creating your own test files
 
+## Why Java?
+Though this could be accomplished far more efficiently (lines of code) as a script, my students have been learning Java and I wanted to provide them with a tool written in Java to fetch their work for archival / portfolio purposes.
+
 ## Copyright Notices Regarding Dependencies
 1. [jsoup 1.11.2](https://jsoup.org/), [MIT](https://opensource.org/licenses/MIT)
 2. [google-java-format](https://github.com/google/google-java-format), [Apache-2.0](https://www.apache.org/licenses/LICENSE-2.0)
